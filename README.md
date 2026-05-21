@@ -1,5 +1,15 @@
 # Brain Cancer Detection — Transfer Learning Comparison
 
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Transfer%20Learning-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 Binary classification of brain MRI images (Tumor vs. Healthy) using transfer learning with InceptionV3, ResNet50, and DenseNet121.
 
 ## Results
@@ -57,7 +67,7 @@ pip install tensorflow scikit-learn matplotlib seaborn numpy pandas ipywidgets
 
 ## Usage
 
-Open `brain-cancer-using.ipynb` in Kaggle or Jupyter and run all cells sequentially.  
+Open the ipynb file in Kaggle or Jupyter and run all cells sequentially.  
 To test classification on a random validation sample, run the inference cell at the bottom of the notebook.
 
 ## Tech Stack
